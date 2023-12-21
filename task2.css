@@ -1,7 +1,8 @@
 .main{
     width: 1000px;
     height: 600px;
-    margin-left:300px ;
+    margin-left:200px ;
+    margin-right:200px ;
     display: flex;
     flex-direction: row;
     position: relative;
